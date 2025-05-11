@@ -9,4 +9,4 @@ Houedagbe est un jeu de rôle narratif et de gestion dans lequel vous incarnez l
 À travers ce jeu, notre objectif est non seulement de sensibiliser à la pollution de l’environnement, mais aussi d’inviter les joueurs à découvrir, grâce à des actions concrètes, les gestes que chacun peut adopter pour préserver notre planète et contribuer à la création d’un monde idéal, vivable pour tous et par tous.
 
 
-Lien vers le répository privé : https://github.com/Mane-Mt/houedagbe
+Lien vers le répository public du projet : https://github.com/Mane-Mt/houedagbe
