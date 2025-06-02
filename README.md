@@ -2,8 +2,8 @@ Participants
  - Edemagnon Mathieu Maneh
  - Sètondji Fabrice AGBO
  - Andy Dufrenne Bongo
- 
- L3 MIAGE Rennes
+
+ Nous sommes tous en L3 MIAGE à l'université de Rennes (ISTIC)
 
 Description du jeu : 
 Houedagbe est un jeu de rôle narratif et de gestion, dans lequel vous incarnez l’Élu chargé de redonner vie à un royaume dévasté. Vous devrez reconstruire les villages, restaurer la nature, rétablir l'équilibre et regagner la faveur des dieux.
