@@ -15,3 +15,4 @@ Comment jouer à Houedagbe :*
 2- Sur la page suivant, vous pouvez commencer directement le jeu en appuyant sur commencer 
 3- Sur l'écran du jeu, vous avez la possibilité de construire tout ce que vous voulez en utilisant les boutons qui se trouvent sur le coté gauche. (Des maisons, des arbres)
 
+Vidéo de présentation : video_presentation.mp4
