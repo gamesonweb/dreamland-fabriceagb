@@ -10,6 +10,8 @@ Lien vers le répository privé : https://github.com/Mane-Mt/houedagbe
 Lien du jeu en ligne : https://mane-mt.github.io/houedagbe/
 
 
-Comment jouer à Houedagbe :
-L'objectif est de placer sur un terrain une maison ou une plante avec les boutons qui se trouvent sur l'écran du jeu. Vous pouvez vous déplacer avec les touches de directions afin
-d'explorer l'environnement. 
+Comment jouer à Houedagbe :*
+1- Cliquer sur espace pour commencer le jeu
+2- Sur la page suivant, vous pouvez commencer directement le jeu en appuyant sur commencer 
+3- Sur l'écran du jeu, vous avez la possibilité de construire tout ce que vous voulez en utilisant les boutons qui se trouvent sur le coté gauche. (Des maisons, des arbres)
+
