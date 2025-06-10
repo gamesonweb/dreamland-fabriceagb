@@ -26,6 +26,8 @@ Sur le menu le joueur peut soit aller dans les paramètres et personnaliser son 
 ![image](https://github.com/user-attachments/assets/cb7ca86a-ed25-43fa-9c46-081e65ad730b)
 ### Niveau 1: Nettoyer la ville
 Après le scénario d'introduction on arrive au niveau 1 du jeu qui consiste à nettoyer la ville en ramassant tous les sacs d'ordures qui jonchent le sol.
+<img width="962" alt="image" src="https://github.com/user-attachments/assets/e10a1e15-c0e7-43a4-a4db-525577ce1fa4" />
+
 ![image](https://github.com/user-attachments/assets/4cdaf18f-c281-44e2-bb5b-fd7009e60f9b)
 
 ### Niveau 2: Commencer à rebatir la ville
