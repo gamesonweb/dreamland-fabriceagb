@@ -28,12 +28,21 @@ Sur le menu le joueur peut soit aller dans les paramètres et personnaliser son 
 Après le scénario d'introduction on arrive au niveau 1 du jeu qui consiste à nettoyer la ville en ramassant tous les sacs d'ordures qui jonchent le sol.
 
 <img width="962" alt="image" src="https://github.com/user-attachments/assets/e10a1e15-c0e7-43a4-a4db-525577ce1fa4" />
-<img width="962" alt="image" src"https://github.com/user-attachments/assets/4cdaf18f-c281-44e2-bb5b-fd7009e60f9b" />
+<img width="968" alt="image" src="https://github.com/user-attachments/assets/5fbee711-1d72-42ed-bf46-ffe74c568ba3" />
+
 
 ### Niveau 2: Commencer à rebatir la ville
 Après avoir fini le nettoyage d'ordures on est invité à commencer la construction de la ville
-![image](https://github.com/user-attachments/assets/d89f33ed-eb99-4263-bfec-24de15c34bba)
+Cette etape de reconstruction consiste au moins à planter deux arbres sur le territoire et deux maisons pouvant servir d'habitations à la population
 
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/40f34640-3a9a-4a2d-aa54-5737d60e5819" />
+<img width="965" alt="image" src="https://github.com/user-attachments/assets/a90bb1eb-4149-4842-8437-57d5a4bbf09a" />
+
+
+
+### Niveau 2: Extenson de la ville
+Cette étape d'extension de la ville à pour objectif de planter beaucoup d'arbres , Mettre en place des poubelles à trie publiques et egalement des logements à la population qui commence à s'augmenter
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/bbdf9ae4-3806-40c6-a9d9-9cbd808ac16d" />
 
 
 
